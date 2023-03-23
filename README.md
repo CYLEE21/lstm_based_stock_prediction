@@ -5,4 +5,10 @@ This is the repo for my master's thesis using LSTM-based models and sentment ana
 
 Objective: Verify whether using relavant business news sentiment analysis can improve the stock prediction.
 
-Dataset: Several gas & oil corporations (xom, cvx, cop, eog, slb, ) stock prices from 2013.01 to 2022.11.
+Dataset: (1) Several gas & oil corporations (xom, cvx, cop, eog, slb, ) stock prices information from 2013.01 to 2022.11, (2) Business news collected from Google news from 2013.01 to 2022.11.
+
+Models: (1) Stacked LSTM, (2) Attention-LSTM, (3) Conv1d-LSTM
+
+Results: Business news sentiment analysis will improve the stock prediction.
+
+more info are coming...
