@@ -7,9 +7,9 @@ Duration: 5 months
 
 Languages: Python
 
-Top used libraries: TBD
+Top used libraries: Keras, PyTorch, Numpy, Pandas, Selenium
 
-Models: TBD
+Models: (1) LSTM (2) Bert Transformer
 
 Dataset: TBD
 
